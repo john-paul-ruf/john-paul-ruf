@@ -1,6 +1,6 @@
 ## John Paul Ruf
 
-Software engineer, 20 years. VP of Information Technology. Kansas City.
+Software engineer, 20 years.
 
 I write tools that make things. Right now that's two projects:
 
