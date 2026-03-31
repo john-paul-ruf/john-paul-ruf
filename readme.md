@@ -1,29 +1,11 @@
-<div align="center">
+## John Paul Ruf
 
-</div>
+Software engineer, 20 years. VP of Information Technology. Kansas City.
 
-## Novel Engine.
+I write tools that make things. Right now that's two projects:
 
-A desktop book-building pipeline. Seven AI editorial agents. Fourteen phases. One manuscript.
+**Novel Engine** — A desktop app for building novels. Seven AI agents handle the editorial pipeline from pitch to manuscript. Electron, React, TypeScript, SQLite, Pandoc. Open source, runs locally.
 
-You bring the story. The agents pitch, scaffold, draft in your voice, read, analyze, plan revisions, copy-edit, and compile your manuscript into export-ready formats. The author drives every creative decision. The pipeline is a build process — source material goes in, a production-ready manuscript comes out.
+**my-nft-gen** — A generative art engine for seamless looping animations. 51 effects, plugin architecture, worker threads. Node.js.
 
-Built with **Electron** · **React** · **TypeScript** · **SQLite** · **Pandoc** — powered by Claude Code CLI. No API keys. No cloud backend. Everything runs on your machine.
-
-[Releases](https://github.com/john-paul-ruf/novel-engine/releases)
-
----
-
-## NFT Studio
-
-A fully programmable, high-performance loop engine for creating seamless visual animations. Built-in effects, worker thread parallelization, plugin-based architecture, mathematical animation engine with multi-step interpolation. From hypnotic radial symmetry to chaotic CRT glitch storms.
-
-**Node.js** · **Sharp** · **Canvas** · **Worker Threads** · **FFmpeg**
-
----
-
-<div align="center">
-
-[Linktree](https://linktr.ee/john.paul.ruf) · [Email](mailto:john.paul.ruf@gmail.com)
-
-</div>
+I also write books and put them on Amazon.
