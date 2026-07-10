@@ -2,7 +2,7 @@
 
 Software engineer, 20 years.
 
-I write tools that make things. Right now that's two projects:
+I write tools that make things.
 
 **Novel Engine** — A desktop app for building novels. Seven AI agents handle the editorial pipeline from pitch to manuscript. Electron, React, TypeScript, SQLite, Pandoc. Open source, runs locally.
 
