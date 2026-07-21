@@ -12,7 +12,7 @@ build a machine; the art taught me what to build it *for*.
 
 - **[my-nft-gen](https://github.com/john-paul-ruf/my-nft-gen)** — a generative art
   engine I wrote by hand and refined over years. It renders infinite, seamless animated
-  loops*
+  loops
 - **[Novel Engine](https://github.com/john-paul-ruf/novel-engine)** — a desktop studio
   that runs seven specialized AI editors as a coordinated crew, locally, so the manuscript
   and the copyright stay the author's.
