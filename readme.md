@@ -16,6 +16,7 @@ build a machine; the art taught me what to build it *for*.
 - **[Novel Engine](https://github.com/john-paul-ruf/novel-engine)** — a desktop studio
   that runs seven specialized AI editors as a coordinated crew, locally, so the manuscript
   and the copyright stay the author's.
+- **[loop-me](https://john-paul-ruf.github.io/loop-me/)** — Endless looping generative art in a single page — randomize, tweak, and share the whole composition as a URL. No build, no deps, no backend.
 
 I don't use AI the way a passenger uses a car — I architect it, and I keep my hand on the
 wheel. Multiply the intent; never replace the judgment.
@@ -24,8 +25,8 @@ wheel. Multiply the intent; never replace the judgment.
 
 - Software — [GitHub](https://github.com/john-paul-ruf)
 - Novels Engine Output — [Amazon](https://www.amazon.com/stores/John-Ruf/author/B00J98NAZ6) · [Goodreads](https://www.goodreads.com/author/list/69545215.John_Ruf)
-- Generative art & loops — [TikTok](https://www.tiktok.com/@john.paul.ruf) · [loop-me](https://john-paul-ruf.github.io/loop-me/)
-
+- Generative art & loops — [TikTok](https://www.tiktok.com/@john.paul.ruf)
+  
 > I solve problems. Hand me an ambiguous, high-stakes thing that has to get built and
 > shipped — a product, a culture, a novel, a body of work — and I'll build the instrument,
 > gather the crew, and play it through to the end.
