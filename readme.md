@@ -22,9 +22,9 @@ wheel. Multiply the intent; never replace the judgment.
 
 **The work itself**
 
-- 💻 Software — [GitHub](https://github.com/john-paul-ruf)
-- 📚 Novels & nonfiction — [Amazon](https://www.amazon.com/stores/John-Ruf/author/B00J98NAZ6) · [Goodreads](https://www.goodreads.com/author/list/69545215.John_Ruf)
-- 🎨 Generative art & loops — [TikTok](https://www.tiktok.com/@john.paul.ruf)
+- Software — [GitHub](https://github.com/john-paul-ruf)
+- Novels Engine Output — [Amazon](https://www.amazon.com/stores/John-Ruf/author/B00J98NAZ6) · [Goodreads](https://www.goodreads.com/author/list/69545215.John_Ruf)
+- Generative art & loops — [TikTok](https://www.tiktok.com/@john.paul.ruf) · [loop-me](https://john-paul-ruf.github.io/loop-me/)
 
 > I solve problems. Hand me an ambiguous, high-stakes thing that has to get built and
 > shipped — a product, a culture, a novel, a body of work — and I'll build the instrument,
