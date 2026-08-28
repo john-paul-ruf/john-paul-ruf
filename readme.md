@@ -1,6 +1,6 @@
 ### I build the instrument, then I play it.
 
-Software engineer, novelist, and artist.
+Software engineer, game builder, novelist, and artist.
 
 One obsession runs under all of it: the constant urge to tinker, to learn, to build.
 Hand me a tool I've never touched or a problem I don't yet understand, and I'll take it
@@ -17,6 +17,12 @@ build a machine; the art taught me what to build it *for*.
   that runs seven specialized AI editors as a coordinated crew, locally, so the manuscript
   and the copyright stay the author's.
 - **[loop-me](https://john-paul-ruf.github.io/loop-me/)** — Endless looping generative art in a single page — randomize, tweak, and share the whole composition as a URL. No build, no deps, no backend.
+
+**The games I've built**
+
+- **[Starship Skirmish](https://john-paul-ruf.github.io/starship-skirmish/)** — Work in progress: A turn based miniatures game
+- **[Operator's Descent](https://john-paul-ruf.github.io/Operator-s-Descent/#a=title)** — Operator's Descent - An infinite-depth cyberpunk-themed rogue-like with glitchy retro visuals, hosted on a GitHub Pages page, with saves that can be exported via URL to other devices.
+
 
 I don't use AI the way a passenger uses a car — I architect it, and I keep my hand on the
 wheel. Multiply the intent; never replace the judgment.
